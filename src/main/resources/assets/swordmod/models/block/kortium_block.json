@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "swordmod:block/kortium_block"
+	}
+}

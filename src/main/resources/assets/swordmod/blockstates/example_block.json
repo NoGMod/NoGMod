@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "swordmod:block/example_block"
+		}
+	}
+}

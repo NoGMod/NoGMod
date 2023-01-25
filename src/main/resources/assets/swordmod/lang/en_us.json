@@ -1,0 +1,14 @@
+{
+	"item.swordmod.example_item": "NoG Schwert",
+	"itemGroup.swordmod": "NoG Mod Tab",
+	"block.swordmod.example_block": "Nice Cock",
+	"block.swordmod.trampolin": "Trampolin",
+	"block.swordmod.kortium_block": "Kortium Block",
+	"item.swordmod.kortium_dust": "Kortium Dust",
+	"item.swordmod.kortium_ingot": "Kortium Ingot",
+	"item.swordmod.kortium_enchanted_ingot": "Kortium Enchanted Ingot",
+	"item.swordmod.kortium_helmet": "Kortium Helmet",
+	"item.swordmod.kortium_chestplate": "Kortium Chestplate",
+	"item.swordmod.kortium_leggings": "Kortium Leggings",
+	"item.swordmod.kortium_boots": "Kortium Boots"
+   }
